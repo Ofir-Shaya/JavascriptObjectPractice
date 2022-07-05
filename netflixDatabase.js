@@ -60,7 +60,7 @@ const netflixTV = [
       "An iconoclastic idealist runs his law practice out of the back of his Lincoln Town Car in this series based on Michael Connelly's bestselling novels.",
     seasonsAndEpisodes: [
       {
-        Season1: {
+        
           Episodes: [
             {
               Name: "He Rides Again",
@@ -89,7 +89,7 @@ const netflixTV = [
           ],
           Cast: ["Manuel Garcia-Rulfo", "neve Campbell", "Becki Newton"],
           Creator: "David E. Kelly",
-        },
+        
       },
     ],
     episodeLength: "45Minutes",
